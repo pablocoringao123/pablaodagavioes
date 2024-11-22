@@ -1,0 +1,10 @@
+/* Resetando margens e padding para todos os elementos */
+* {
+    margin: 0; /*Remove a margem */
+    padding: 0; /*Remove o preenchimento*/
+    box-sizing: border-box; /*Faz com que o padding e a borda sejam incluídos no tamanho do elemento*/
+}
+
+/*Estilo para o corpo da página */
+body {
+    font-family: Arial,sans-serif;/*Define a fonte padrão da página */
